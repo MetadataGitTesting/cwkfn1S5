@@ -1,0 +1,259 @@
+name: carmelia.conroy
+description: Stand-alone
+version: 0.0.1
+author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:24:04'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels:
+  .prophecy/metadata/sqlmodels/model4:
+    name: model4
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - model4.sql
+    - sources.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmodels/model:
+    name: model
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - model.sql
+    - sources.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmodels/schemamodel1:
+    name: schemamodel1
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - schemamodel1.sql
+    - schema.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmodels/model3:
+    name: model3
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - model3.sql
+    - sources.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmodels/model2:
+    name: model2
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - model2.sql
+    - sources.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmodels/schemamodel2:
+    name: schemamodel2
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - schemamodel2.sql
+    - schema.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+sqlSnapshots:
+  .prophecy/metadata/sqlsnapshots/snapshot:
+    name: snapshot
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - snapshot.sql
+    - sources3.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlsnapshots/snapshot2:
+    name: snapshot2
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - snapshot2.sql
+    - snapshot2.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-09-19 23:24:05'
+sqlTests:
+  .prophecy/metadata/sqltests/test1:
+    name: test1
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - test1.sql
+    testType: SingularDataTest
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqltests/test2:
+    name: test2
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - test2.sql
+    - .prophecy/sqltests/test2.json
+    testType: SingularDataTest
+    createdAt: '2025-09-19 23:24:05'
+sqlMacros:
+  .prophecy/metadata/sqlmacros/model:
+    name: model
+    macroType: model
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - macro.sql
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmacros/macro1:
+    name: macro1
+    macroType: macro1
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - macro2.sql
+    - sources.yml
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmacros/schemamacro1:
+    name: schemamacro1
+    macroType: schemamacro1
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - schemamacro.sql
+    - schemamacro.yml
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlmacros/schemamacro2:
+    name: schemamacro2
+    macroType: schemamacro2
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - schemamacro.sql
+    - schemamacro.yml
+    createdAt: '2025-09-19 23:24:05'
+sqlSeeds:
+  .prophecy/metadata/sqlseeds/seed1:
+    name: seed1
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - seed1.csv
+    - sources2.yml
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlseeds/seed2:
+    name: seed2
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - seed2.csv
+    - sources2.yml
+    createdAt: '2025-09-19 23:24:05'
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+  createdAt: '2025-09-19 23:24:04'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
+sqlOrchestratorPipelines:
+  .prophecy/metadata/sqlorchestratorpipeline/orch1:
+    name: orch1
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - orch1.sql
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlorchestratorpipeline/orch2:
+    name: orch2
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - .prophecy/ide/orch2.json
+    createdAt: '2025-09-19 23:24:05'
+  .prophecy/metadata/sqlorchestratorpipeline/orch3:
+    name: orch3
+    schema: null
+    description: null
+    author: hqfm9tzs.qeq6yozv@y5yvl74p.com
+    files:
+    - orch3.json
+    createdAt: '2025-09-19 23:24:05'
+sqlBusinessApps: {}
