@@ -1,1 +1,1 @@
-SELECT * FROM orch;
+SELECT right FROM orch;
